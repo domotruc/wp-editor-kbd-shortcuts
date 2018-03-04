@@ -1,8 +1,6 @@
-This plugin lets you save your posts, pages, theme and plugin files in the most natural way: pressing Ctrl+S (or Cmd+S on Mac).
-
 ## Description
 
-This plugin adds the following keyboard shortcuts when editing posts and pages:
+This plugin adds keyboard shortcuts when editing posts and pages under WordPress sites:
 
 * Ctrl+S (or Cmd+S for Mac): save
 * Ctrl+P (or Cmd+P for Mac): preview
